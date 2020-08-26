@@ -1,0 +1,15 @@
+Package: xyz.spongesid.morphs
+Version: 1.0
+Section: Themes
+Maintainer: TheAwesome98 <TheAwesome98@programmer.net>
+Depends: com.spark.snowboard
+Provides: xyz.spongesid.morphs
+Architecture: iphoneos-arm
+Filename: packs/Morphs/xyz.spongesid_1.0_iphoneos-arm.deb
+Size: 3760856
+Installed-Size: 3760856
+MD5sum: 8f9023a0942617d3aea542a0dabda733
+Description: A round, neomorphic theme.
+Name: Morphs
+Author: TheAwesome98 <TheAwesome98@programmer.net>
+Depiction: http://TheAwesome98-Real.github.io/apt/cydia/packs/Morphs/index.html
